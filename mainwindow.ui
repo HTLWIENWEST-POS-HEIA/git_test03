@@ -50,6 +50,16 @@
      <string>Datei</string>
     </property>
    </widget>
+   <widget class="QComboBox" name="comboBox">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>200</y>
+      <width>79</width>
+      <height>22</height>
+     </rect>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menuBar">
    <property name="geometry">
@@ -57,7 +67,7 @@
      <x>0</x>
      <y>0</y>
      <width>744</width>
-     <height>21</height>
+     <height>19</height>
     </rect>
    </property>
   </widget>
